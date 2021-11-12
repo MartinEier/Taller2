@@ -1,1 +1,1 @@
-# Taller2
+# Juego_de_taller_2
